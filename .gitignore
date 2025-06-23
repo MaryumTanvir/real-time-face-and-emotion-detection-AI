@@ -2,3 +2,4 @@
 train/
 test/
 balanced_split_data/
+script.py
