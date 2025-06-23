@@ -1,0 +1,4 @@
+# Ignore training and testing data folders
+train/
+test/
+balanced_split_data/
