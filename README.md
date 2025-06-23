@@ -2,8 +2,7 @@
 
 EmoTrack is a real-time facial emotion detection system that uses deep learning and computer vision to classify human emotions from live webcam input.
 
-## Demo
-> Live face detection with real-time emotion labels like Happy, Sad, Angry, etc.
+
 
 ---
 
